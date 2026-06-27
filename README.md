@@ -1,2 +1,2 @@
-# First-Repository-
+# Sample-Repository-
 Sample Repository 
